@@ -32,3 +32,10 @@ Things to be noted.
 
 2. There are 100 generation printed with while loop with : while(x < 100)
     if you wish to print lesser generation simply change value to while(x < 5) for five generations.
+
+
+Last important thing to specify is about the input.
+I have generated the file randomly with the help of Random class in java as there were 200 x 200 matrix and it was difficult to give input individually.
+Random class object are created to allocate dead (0) and live (1) automatically at the initial phase of input with 0 and 1.
+
+Thank You.
